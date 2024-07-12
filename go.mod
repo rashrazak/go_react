@@ -1,4 +1,4 @@
-module github.com/rashrazak/golang-react
+module github.com/rashrazak/go_react
 
 go 1.22.4
 
